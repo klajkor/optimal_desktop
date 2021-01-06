@@ -1,1 +1,2 @@
-# optimal_desktop
+# optimal desktop
+Optimal Desktop Environment
